@@ -2,12 +2,6 @@
 
 A Java-based single-player game that combines the elements of Player vs. Environment (PvE) and board games. The game has two modes: exploration and encounter. For the player to win, they must successfully traverse the game area. Encounters are triggered when the player stops or passes through certain sections of the game area. The player must defeat non-playable characters (NPCs) with the help of their companions. The player loses if all their three companions are defeated.
 
-**Running the Game**
-1. Navigate to the folder `CCPROG3_MCO2/MCO2_Code/src`
-2. Type `javac Driver.java` in the command prompt and run. A Driver class must have been initialized after running the prompt.
-3. Type `java Driver` in the command prompt and run. A window showing the game must have popped out.
-4. Play the game.
-
 **Game Initialization**
 - The player chooses three out of four posisble companions for the game. The possible companions are the following:
   - Kirin: fire elemental creatures that have the special skill, Blaze, which allows it to burn an entire column of obstruction from where the player is standing.
@@ -45,4 +39,13 @@ A Java-based single-player game that combines the elements of Player vs. Environ
 - Defeated player's companions cannot be called after its defeat, unless a healing totem was obtained by the player.
 - If all player's companions are defeated, then the player loses and the game ends.
 
+# How to Run the Program
+1. Clone this repository.
+2. Navigate to the cloned version of this repository and go to the folder `CCPROG3_MCO2/MCO2_Code/src`.
+3. Open the command prompt.
+2. Type and run `javac Driver.java` in the command prompt. An instance of the Driver class must be created upon running this prompt.
+3. Type and run `java Driver` in the command prompt. 
+4. Wait for a window to pop up showing the game.
+5. Play the game.
 
+You may also run the program using applications like Visual Studio Code.
