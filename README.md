@@ -1,4 +1,4 @@
-# CCPROG3_MCO2
+# CCPROG3_MCO2_Legend
 
 Legend is a Java-based single-player game that combines the elements of Player vs. Environment (PvE) and board games. The game has two modes: exploration and encounter. For the player to win, they must successfully traverse the game area. Encounters are triggered when the player stops or passes through certain sections of the game area. The player must defeat non-playable characters (NPCs) with the help of their companions. The player loses if all their three companions are defeated.
 
